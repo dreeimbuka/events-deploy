@@ -27,7 +27,7 @@ const Services = () => {
              <img src={program_3} alt="" />
              <div className="caption">
              <img src={program_icon_3} alt="" />
-                <p>Wedding</p>
+                <p>Weddings</p>
               </div>
           </div>
         
