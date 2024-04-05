@@ -96,5 +96,14 @@
     .slide{
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
         padding: 10px;
+        
+        
     }
+    .testimonials{
+        margin: 80px auto;
+        padding: 0 10px;
+        position: relative;
+    }
+    
+    
 }
